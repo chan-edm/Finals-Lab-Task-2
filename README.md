@@ -6,18 +6,16 @@
 - Define username as a VARCHAR(50).
 - Set username as the Primary Key.
 # Screenshot and Structure sample:
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%201.png)
-
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%201%20sample.png)
+![Image](https://github.com/user-attachments/assets/26651d0f-8362-4242-9761-b74f61818c6b)
+![Image](https://github.com/user-attachments/assets/452a1bcc-32ce-41a1-98db-d8a0c3477ca1)
 
 ### 2. Create the assignment table:
 - Define shortname as a VARCHAR(50) and set it as the Primary Key.
 - Define due_date as a DATE NOT NULL.
 - Define url as a VARCHAR(255), which can be null.
 # Screenshot and Structure sample:
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%202.png)
-
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%202%20sample.png)
+![Image](https://github.com/user-attachments/assets/f81c35e3-3664-4962-b68c-2cd6f03bd6c4)
+![Image](https://github.com/user-attachments/assets/703fe1dc-3929-4975-b4e8-b088a4a89dd1)
 
 ### 3. Create the submission table:
 - Define username and shortname both as VARCHAR(50).
@@ -27,9 +25,8 @@
 - Set a composite primary key of (username, shortname, version).
 - Add foreign keys referencing the student and assignment tables.
 # Screenshot and Structure sample:
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%203.png)
-
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%203%20sample.png)
+![Image](https://github.com/user-attachments/assets/ced7306b-06a3-4ee6-8dc0-932cef16ac75)
+![Image](https://github.com/user-attachments/assets/37a46c40-b6d5-4129-b618-84871c821256)
 
 # Table Relationships
 ### 1. **`student` table**
@@ -57,8 +54,7 @@
 
 
 # Er Diagram sample:
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20eer%20diagram%202.png)
-
-![image](https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20eer%20diagram.png)
+![Image](https://github.com/user-attachments/assets/3e8ab6dc-ac86-484c-abf9-b9e008cc5c90)
+![Image](https://github.com/user-attachments/assets/3ea1a9bb-1722-4510-a332-d99753e10689)
 
 [BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
