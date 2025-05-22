@@ -57,4 +57,6 @@
 ![Image](https://github.com/user-attachments/assets/3e8ab6dc-ac86-484c-abf9-b9e008cc5c90)
 ![Image](https://github.com/user-attachments/assets/3ea1a9bb-1722-4510-a332-d99753e10689)
 
-[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
+ <a href="https://chan-edm.github.io/README/" class="btn">BACK TO PORTFOLIO</a>
+    <a href="https://chan-edm.github.io/Finals-Lab-Task-3/" class="btn">CONTINUE TO LEARN</a>
+
