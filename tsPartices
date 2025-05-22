@@ -1,0 +1,23 @@
+@keyframes pulse-shrink {
+  to {
+    transform: scale(0.9);
+  }
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #90EE90; /* Light Green */
+  color: #ffffff; /* White text */
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1em;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: 0 0 10px #90EE90; /* Light green glow */
+  transition: all 0.3s ease;
+}
+
+.button:hover {
+  animation: pulse-shrink 0.3s ease forwards;
+}
