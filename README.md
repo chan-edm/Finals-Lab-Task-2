@@ -6,16 +6,16 @@
 - Define username as a VARCHAR(50).
 - Set username as the Primary Key.
 # Screenshot and Structure sample:
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%201.png)
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%201%20sample.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%201.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%201%20sample.png)
 
 ### 2. Create the assignment table:
 - Define shortname as a VARCHAR(50) and set it as the Primary Key.
 - Define due_date as a DATE NOT NULL.
 - Define url as a VARCHAR(255), which can be null.
 # Screenshot and Structure sample:
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%202.png)
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%202%20sample.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%202.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%202%20sample.png)
 
 ### 3. Create the submission table:
 - Define username and shortname both as VARCHAR(50).
@@ -25,8 +25,8 @@
 - Set a composite primary key of (username, shortname, version).
 - Add foreign keys referencing the student and assignment tables.
 # Screenshot and Structure sample:
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%203.png)
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%203%20sample.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%203.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20task%203%20sample.png)
 
 # Table Relationships
 ### 1. **`student` table**
@@ -54,7 +54,7 @@
 
 
 # Er Diagram sample:
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20eer%20diagram%202.png)
-[image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20eer%20diagram.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20eer%20diagram%202.png)
+![image}(https://github.com/chan-edm/README/blob/c75dbf0fa07128c4fa1c8b514d7dd253a56c83cf/Images/final%202%20eer%20diagram.png)
 
 [BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
